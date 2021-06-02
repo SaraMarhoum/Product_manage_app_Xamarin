@@ -16,7 +16,7 @@ namespace XamarinFormsCrud.Models
 
         public override string ToString()
         {
-            return  this.nom  + "(" + this.description+ ")" + this.prix;
+            return this.nom + "  " + "(" + this.description + ")" + "  " + this.prix;
         }
 
     }

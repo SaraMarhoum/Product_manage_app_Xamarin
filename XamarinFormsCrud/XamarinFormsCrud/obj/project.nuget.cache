@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "suTeagznFFwkO9wLkHl4VpDVxDHh8/IrGyUeb5IRGctfdAqCGSGytjVgLBvC0MSuPADKjYHE2EjZkxb0aw/OQw==",
+  "dgSpecHash": "2FZVlUFvEGO6PrHY0wiaIeI+byTOZK4Zn87ZzgtQMvxGiqSt3Ph12czj4yA5kQiY2wp1+QQiNXwSlKP2AXfsfA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Youcode\\source\\repos\\XamarinFormsCrud\\XamarinFormsCrud\\XamarinFormsCrud\\XamarinFormsCrud.csproj",
+  "projectFilePath": "C:\\Users\\Youcode\\Desktop\\Product_manage_app_Xamarin\\XamarinFormsCrud\\XamarinFormsCrud\\XamarinFormsCrud.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Youcode\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\Youcode\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",

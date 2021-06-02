@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1dqzFMQ9R0rTPhbbEuvh12SQtKvoY5ElUnMn8lcT67WLLNjZhV5EHDtomnyybYofSVaGbH/9ViSKGBAN7+fTxQ==",
+  "dgSpecHash": "5vkzTG23CJi/F2FL0b6W1lOS4EiD0CFHdt+TU1UC6j1/VCzwkSmb6rfDZGqb+pY6u47UPa7w1QsRiveeMpqXug==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Youcode\\source\\repos\\XamarinFormsCrud\\XamarinFormsCrud\\XamarinFormsCrud.Android\\XamarinFormsCrud.Android.csproj",
+  "projectFilePath": "C:\\Users\\Youcode\\Desktop\\Product_manage_app_Xamarin\\XamarinFormsCrud\\XamarinFormsCrud.Android\\XamarinFormsCrud.Android.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Youcode\\.nuget\\packages\\sqlite-net-pcl\\1.7.335\\sqlite-net-pcl.1.7.335.nupkg.sha512",
     "C:\\Users\\Youcode\\.nuget\\packages\\sqlitepclraw.bundle_green\\2.0.3\\sqlitepclraw.bundle_green.2.0.3.nupkg.sha512",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Youcode\\source\\repos\\XamarinFormsCrud\\XamarinFormsCrud\\XamarinFormsCrud.Android\\XamarinFormsCrud.Android.csproj": {}
+    "C:\\Users\\Youcode\\Desktop\\Product_manage_app_Xamarin\\XamarinFormsCrud\\XamarinFormsCrud.Android\\XamarinFormsCrud.Android.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Youcode\\source\\repos\\XamarinFormsCrud\\XamarinFormsCrud\\XamarinFormsCrud.Android\\XamarinFormsCrud.Android.csproj": {
+    "C:\\Users\\Youcode\\Desktop\\Product_manage_app_Xamarin\\XamarinFormsCrud\\XamarinFormsCrud.Android\\XamarinFormsCrud.Android.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Youcode\\source\\repos\\XamarinFormsCrud\\XamarinFormsCrud\\XamarinFormsCrud.Android\\XamarinFormsCrud.Android.csproj",
+        "projectUniqueName": "C:\\Users\\Youcode\\Desktop\\Product_manage_app_Xamarin\\XamarinFormsCrud\\XamarinFormsCrud.Android\\XamarinFormsCrud.Android.csproj",
         "projectName": "XamarinFormsCrud.Android",
-        "projectPath": "C:\\Users\\Youcode\\source\\repos\\XamarinFormsCrud\\XamarinFormsCrud\\XamarinFormsCrud.Android\\XamarinFormsCrud.Android.csproj",
+        "projectPath": "C:\\Users\\Youcode\\Desktop\\Product_manage_app_Xamarin\\XamarinFormsCrud\\XamarinFormsCrud.Android\\XamarinFormsCrud.Android.csproj",
         "packagesPath": "C:\\Users\\Youcode\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Youcode\\source\\repos\\XamarinFormsCrud\\XamarinFormsCrud\\XamarinFormsCrud.Android\\obj\\",
+        "outputPath": "C:\\Users\\Youcode\\Desktop\\Product_manage_app_Xamarin\\XamarinFormsCrud\\XamarinFormsCrud.Android\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
@@ -32,8 +32,8 @@
         "frameworks": {
           "monoandroid10.0": {
             "projectReferences": {
-              "C:\\Users\\Youcode\\source\\repos\\XamarinFormsCrud\\XamarinFormsCrud\\XamarinFormsCrud\\XamarinFormsCrud.csproj": {
-                "projectPath": "C:\\Users\\Youcode\\source\\repos\\XamarinFormsCrud\\XamarinFormsCrud\\XamarinFormsCrud\\XamarinFormsCrud.csproj"
+              "C:\\Users\\Youcode\\Desktop\\Product_manage_app_Xamarin\\XamarinFormsCrud\\XamarinFormsCrud\\XamarinFormsCrud.csproj": {
+                "projectPath": "C:\\Users\\Youcode\\Desktop\\Product_manage_app_Xamarin\\XamarinFormsCrud\\XamarinFormsCrud\\XamarinFormsCrud.csproj"
               }
             }
           }
@@ -58,14 +58,14 @@
         }
       }
     },
-    "C:\\Users\\Youcode\\source\\repos\\XamarinFormsCrud\\XamarinFormsCrud\\XamarinFormsCrud\\XamarinFormsCrud.csproj": {
+    "C:\\Users\\Youcode\\Desktop\\Product_manage_app_Xamarin\\XamarinFormsCrud\\XamarinFormsCrud\\XamarinFormsCrud.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Youcode\\source\\repos\\XamarinFormsCrud\\XamarinFormsCrud\\XamarinFormsCrud\\XamarinFormsCrud.csproj",
+        "projectUniqueName": "C:\\Users\\Youcode\\Desktop\\Product_manage_app_Xamarin\\XamarinFormsCrud\\XamarinFormsCrud\\XamarinFormsCrud.csproj",
         "projectName": "XamarinFormsCrud",
-        "projectPath": "C:\\Users\\Youcode\\source\\repos\\XamarinFormsCrud\\XamarinFormsCrud\\XamarinFormsCrud\\XamarinFormsCrud.csproj",
+        "projectPath": "C:\\Users\\Youcode\\Desktop\\Product_manage_app_Xamarin\\XamarinFormsCrud\\XamarinFormsCrud\\XamarinFormsCrud.csproj",
         "packagesPath": "C:\\Users\\Youcode\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Youcode\\source\\repos\\XamarinFormsCrud\\XamarinFormsCrud\\XamarinFormsCrud\\obj\\",
+        "outputPath": "C:\\Users\\Youcode\\Desktop\\Product_manage_app_Xamarin\\XamarinFormsCrud\\XamarinFormsCrud\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"

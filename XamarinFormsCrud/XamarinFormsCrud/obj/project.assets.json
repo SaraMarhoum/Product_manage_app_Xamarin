@@ -840,11 +840,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Youcode\\source\\repos\\XamarinFormsCrud\\XamarinFormsCrud\\XamarinFormsCrud\\XamarinFormsCrud.csproj",
+      "projectUniqueName": "C:\\Users\\Youcode\\Desktop\\Product_manage_app_Xamarin\\XamarinFormsCrud\\XamarinFormsCrud\\XamarinFormsCrud.csproj",
       "projectName": "XamarinFormsCrud",
-      "projectPath": "C:\\Users\\Youcode\\source\\repos\\XamarinFormsCrud\\XamarinFormsCrud\\XamarinFormsCrud\\XamarinFormsCrud.csproj",
+      "projectPath": "C:\\Users\\Youcode\\Desktop\\Product_manage_app_Xamarin\\XamarinFormsCrud\\XamarinFormsCrud\\XamarinFormsCrud.csproj",
       "packagesPath": "C:\\Users\\Youcode\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Youcode\\source\\repos\\XamarinFormsCrud\\XamarinFormsCrud\\XamarinFormsCrud\\obj\\",
+      "outputPath": "C:\\Users\\Youcode\\Desktop\\Product_manage_app_Xamarin\\XamarinFormsCrud\\XamarinFormsCrud\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
